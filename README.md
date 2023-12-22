@@ -1,4 +1,4 @@
-# Culinary-Compass
+### Culinary-Compass
 
 ![AppDemo](https://github.com/Archit381/Culinary-Compass/blob/main/Assets/ppt_pics/Slide3.jpg)
 
