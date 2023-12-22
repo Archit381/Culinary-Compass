@@ -1,6 +1,6 @@
 # Culinary-Compass
 
-### Streamline your cooking routine with our straightforward recipe app. Daily recipes, pantry-friendly suggestions, and global flavors cater to your convenience, making every meal a hassle-free and enjoyable experience.
+### Cooking made easy with Culinary Compass – your go-to recipe app for daily delights, pantry-friendly meals, global flavors, and personalized culinary adventures. Let's simplify your kitchen journey!
 
 ## Features
 Daily Recipes: Discover a new recipe every day, eliminating the stress of meal planning.
