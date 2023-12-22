@@ -17,3 +17,15 @@ Personalized Suggestions: Like a recipe? Receive tailored suggestions based on y
 
 
 ![images](https://github.com/Archit381/Culinary-Compass/blob/main/Assets/ppt_pics/culinary.png)
+
+# How to Install ?
+
+Step1: Clone this Repository into your local machine
+Step2: Go inside the folder and run "npm install"
+Step3: Replace the api key for the various services as the old one will not work (private api key)
+Step4: Use your Firebase credentials and change data accordingly
+Step5: To Start the App run "npm run start"
+
+# Thank You !
+
+
