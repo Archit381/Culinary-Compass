@@ -1,30 +1,35 @@
 # Culinary-Compass
 
-Streamline your cooking routine with our straightforward recipe app. Daily recipes, pantry-friendly suggestions, and global flavors cater to your convenience, making every meal a hassle-free and enjoyable experience.
+### Cooking made easy with Culinary Compass – your go-to recipe app for daily delights, pantry-friendly meals, global flavors, and personalized culinary adventures. Let's simplify your kitchen journey!
+
+## Features
+Daily Recipes: Discover a new recipe every day, eliminating the stress of meal planning.
+
+Pantry-Friendly Suggestions: Input your kitchen inventory, and we'll suggest recipes based on what you have or need.
+
+Global Flavors: Explore trending recipes from around the world, bringing diverse culinary experiences to your kitchen.
+
+Healthy Cooking: Tailor recipes to your nutritional goals, ensuring meals align with your energy, calorie, and protein needs.
+
+Personalized Suggestions: Like a recipe? Receive tailored suggestions based on your favorites, making your cooking journey more enjoyable.
 
 ![AppDemo](https://github.com/Archit381/Culinary-Compass/blob/main/Assets/ppt_pics/Slide3.jpg)
 
-# Personalized Playground
 
-![AppDemo](https://github.com/Archit381/Culinary-Compass/blob/main/Assets/ppt_pics/Slide4.jpg)
+![images](https://github.com/Archit381/Culinary-Compass/blob/main/Assets/ppt_pics/culinary.png)
 
-# Your Kitchen, Your Arsenal
+# How to Install ?
 
-![AppDemo](https://github.com/Archit381/Culinary-Compass/blob/main/Assets/ppt_pics/Slide6.jpg)
+Step1: Clone this Repository into your local machine
 
-# Fit for your Fitness Journey
+Step2: Go inside the folder and run "npm install"
 
-![AppDemo](https://github.com/Archit381/Culinary-Compass/blob/main/Assets/ppt_pics/Slide7.jpg)
+Step3: Replace the api key for the various services as the old one will not work (private api key)
 
-# Daily Suprises
+Step4: Use your Firebase credentials and change data accordingly
 
-![AppDemo](https://github.com/Archit381/Culinary-Compass/blob/main/Assets/ppt_pics/Slide8.jpg)
+Step5: To Start the App run "npm run start"
 
-# Recipes Tailored to You
+# Thank You !
 
-![AppDemo](https://github.com/Archit381/Culinary-Compass/blob/main/Assets/ppt_pics/Slide9.jpg)
-
-# Our Community
-
-![AppDemo](https://github.com/Archit381/Culinary-Compass/blob/main/Assets/ppt_pics/Slide10.jpg)
 
