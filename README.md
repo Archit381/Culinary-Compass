@@ -18,6 +18,8 @@ Personalized Suggestions: Like a recipe? Receive tailored suggestions based on y
 
 ![images](https://github.com/Archit381/Culinary-Compass/blob/main/Assets/ppt_pics/culinary.png)
 
+### For this project I chose to use react-native since I had to develop this app under 12 hours in an overnight hackathon and making it work for both android and ios seemed more efficient to me. This app majorly relies on the database provided to me by CosyLab but since this app requires the auth token for their api this app might not work for you. For the backend I kept it simple and used Firebase since the database is not that big but in future I will migrate to a custom backend.
+
 # How to Install ?
 
 Step1: Clone this Repository into your local machine
